@@ -1,0 +1,17 @@
+{
+    "name": "Название проекта",
+    "about": "Краткое описание проекта",
+    "version": "0.1",
+    "notes": "Комментарии к обновлению",
+    "builds": [
+      {
+        "chipFamily": "ESP8266",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/<ваш_аккаунт>/<ваш_репозиторий>/main/bin/firmware.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  }
