@@ -1,14 +1,14 @@
 {
     "name": "Название проекта",
     "about": "Краткое описание проекта",
-    "version": "0.1",
+    "version": "0.11",
     "notes": "Комментарии к обновлению",
     "builds": [
       {
         "chipFamily": "ESP8266",
         "parts": [
           {
-            "path": "https://raw.githubusercontent.com/<ваш_аккаунт>/<ваш_репозиторий>/main/bin/firmware.bin",
+            "path": "https://github.com/mxxlovescode/tiabaldu-public-releases/releases/latest/download/firmware.bin",
             "offset": 0
           }
         ]
