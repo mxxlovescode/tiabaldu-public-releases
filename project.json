@@ -1,8 +1,8 @@
 {
-    "name": "Название проекта",
-    "about": "Краткое описание проекта",
-    "version": "0.16",
-    "notes": "Комментарии к обновлению",
+    "name": "tiabaldu",
+    "about": "ESP8266 - второй контроллер на Arduino Mega",
+    "version": "0.2",
+    "notes": "Реализовано OTA",
     "builds": [
       {
         "chipFamily": "ESP8266",
